@@ -1,0 +1,343 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{smith1998study}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=SJE}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={James\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJE1}
+    \strng{fullhash}{SJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{25 years of the international symposia on Computer architecture (selected papers)}
+    \field{pages}{202\bibrangedash 215}
+    \field{title}{A study of branch prediction strategies}
+    \field{year}{1998}
+  \endentry
+
+  \entry{zouzias2021branch}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZA}{%
+         family={Zouzias},
+         familyi={Z\bibinitperiod},
+         given={Anastasios},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kalaitzidis},
+         familyi={K\bibinitperiod},
+         given={Kleovoulos},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Grot},
+         familyi={G\bibinitperiod},
+         given={Boris},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZAKKGB1}
+    \strng{fullhash}{ZAKKGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Branch Prediction as a Reinforcement Learning Problem: Why, How and Case Studies}
+    \field{journaltitle}{arXiv preprint arXiv:2106.13429}
+    \field{year}{2021}
+  \endentry
+
+  \entry{silver2017mastering}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=SD}{%
+         family={Silver},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schrittwieser},
+         familyi={S\bibinitperiod},
+         given={Julian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Simonyan},
+         familyi={S\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=AI}{%
+         family={Antonoglou},
+         familyi={A\bibinitperiod},
+         given={Ioannis},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Aja},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Guez},
+         familyi={G\bibinitperiod},
+         given={Arthur},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hubert},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Lucas},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Lai},
+         familyi={L\bibinitperiod},
+         given={Matthew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bolton},
+         familyi={B\bibinitperiod},
+         given={Adrian},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{SD+1}
+    \strng{fullhash}{SDSJSKAIHAGAHTBLLMBA+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7676}
+    \field{pages}{354\bibrangedash 359}
+    \field{title}{Mastering the game of go without human knowledge}
+    \field{volume}{550}
+    \field{journaltitle}{nature}
+    \field{year}{2017}
+  \endentry
+
+  \entry{jimenez2001dynamic}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=JDA}{%
+         family={Jim{\'e}nez},
+         familyi={J\bibinitperiod},
+         given={Daniel\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Calvin},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{JDALC1}
+    \strng{fullhash}{JDALC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings HPCA Seventh International Symposium on High-Performance Computer Architecture}
+    \field{pages}{197\bibrangedash 206}
+    \field{title}{Dynamic branch prediction with perceptrons}
+    \field{year}{2001}
+  \endentry
+
+  \entry{van2017automatic}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=VAD}{%
+         family={Van\bibnamedelima Aken},
+         familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Dana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pavlo},
+         familyi={P\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GGJ}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={Geoffrey\bibnamedelima J},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Bohan},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VAD+1}
+    \strng{fullhash}{VADPAGGJZB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 2017 ACM international conference on management of data}
+    \field{pages}{1009\bibrangedash 1024}
+    \field{title}{Automatic database management system tuning through large-scale machine learning}
+    \field{year}{2017}
+  \endentry
+
+  \entry{margaritov2018virtual}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=MA}{%
+         family={Margaritov},
+         familyi={M\bibinitperiod},
+         given={Artemiy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=UD}{%
+         family={Ustiugov},
+         familyi={U\bibinitperiod},
+         given={Dmitrii},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Bugnion},
+         familyi={B\bibinitperiod},
+         given={Edouard},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Grot},
+         familyi={G\bibinitperiod},
+         given={Boris},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MA+1}
+    \strng{fullhash}{MAUDBEGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Conference on Neural Information Processing Systems}
+    \field{title}{Virtual address translation via learned page table indexes}
+    \field{year}{2018}
+  \endentry
+
+  \entry{dean2017machine}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=DJ}{%
+         family={Dean},
+         familyi={D\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJ1}
+    \strng{fullhash}{DJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Presentation at 2017 Conference on Neural Information Processing Systems}
+    \field{title}{Machine learning for systems and systems for machine learning}
+    \field{year}{2017}
+  \endentry
+
+  \entry{mao2019park}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=MH}{%
+         family={Mao},
+         familyi={M\bibinitperiod},
+         given={Hongzi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=NP}{%
+         family={Negi},
+         familyi={N\bibinitperiod},
+         given={Parimarjan},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Narayan},
+         familyi={N\bibinitperiod},
+         given={Akshay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Hanrui},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Jiacheng},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Haonan},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Marcus},
+         familyi={M\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KSM}{%
+         family={Khani\bibnamedelima Shirkoohi},
+         familyi={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Mehrdad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Songtao},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Nathan},
+         familyi={N\bibinitperiod},
+         given={Vikram},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MH+1}
+    \strng{fullhash}{MHNPNAWHYJWHMRKSMHSNV+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Park: An open platform for learning-augmented computer systems}
+    \field{volume}{32}
+    \field{journaltitle}{Advances in Neural Information Processing Systems}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput
